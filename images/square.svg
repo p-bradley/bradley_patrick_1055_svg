@@ -1,0 +1,29 @@
+<svg version="1.1" id="square" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 302 320" style="enable-background:new 0 0 302 320;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#ffff;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#ffff;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#fffF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+
+	.st0:hover{fill:#7EC788;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1:hover{fill:#A683BB;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2:hover{fill:#46A8DF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<rect x="1" y="1" class="st0" width="300" height="318"/>
+<rect x="45" y="73.5" class="st1" width="201" height="188.5"/>
+<ellipse class="st2" cx="151" cy="160" rx="55.3" ry="51.3"/>
+<defs>
+	<script>
+		let theSquare = document.querySelector("#square");
+
+		function logThisSquare() {
+			console.log(this.id);
+		}
+
+		theSquare.addEventListener("click", logThisSquare);
+	</script>
+</defs>
+<rect x="1" y="1" class="st0" width="300" height="318"/>
+<rect x="45" y="73.5" class="st1" width="201" height="188.5"/>
+<ellipse class="st2" cx="151" cy="160" rx="55.3" ry="51.3"/>
+</svg>
