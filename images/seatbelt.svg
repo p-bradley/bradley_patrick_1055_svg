@@ -15,18 +15,6 @@
 	.st3:hover {fill:#DBDBDB;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
 	.st4:hover {fill:#FFFEFA;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
 
-<defs>
-	<script>
-		let theSeatBelt = document.querySelector("#seatbelt");
-
-		function logThisSeatBelt() {
-			console.log(this.id);
-		}
-
-		theSeatBelt.addEventListener("click", logThisSeatBelt);
-
-	</script>
-</defs>	
 </style>
 <rect id="bottombelt" x="18.1" y="212.2" transform="matrix(0.7874 0.6164 -0.6164 0.7874 163.4511 21.9641)" class="st0" width="63.6" height="71.5"/>
 <rect id="block" x="63.1" y="156.8" transform="matrix(0.6164 -0.7874 0.7874 0.6164 -124.2688 145.4801)" class="st1" width="48.2" height="87"/>

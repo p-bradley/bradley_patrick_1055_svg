@@ -13,18 +13,6 @@
 	.st2:hover {fill:#E5DBA8;stroke:#231F20;stroke-width:6;stroke-miterlimit:10;}
 	.st3:hover {fill:#565656;stroke:#231F20;stroke-miterlimit:10;}
 
-<defs>
-	<script>
-		let theKey = document.querySelector("#key");
-
-		function logThisKey() {
-			console.log(this.id);
-		}
-
-		theKey.addEventListener("click", logThisKey);
-
-	</script>
-</defs>	
 </style>
 <path class="st0" d="M101,110l30.7-58.7c3.1-5.8,0.8-13.1-5.1-16.2L67.9,4.4c-5.8-3.1-13.1-0.8-16.2,5.1L21,68.1
 	c-3.1,5.8-0.8,13.1,5.1,16.2L84.8,115C90.6,118.1,97.9,115.8,101,110z"/>

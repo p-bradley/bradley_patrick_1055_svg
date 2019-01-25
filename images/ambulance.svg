@@ -13,18 +13,6 @@
 	.st2:hover {fill:#606060;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
 	.st3:hover {fill:#0097F4;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
 
-<defs>
-	<script>
-		let theAmbulance = document.querySelector("#ambulance");
-
-		function logThisAmbulance() {
-			console.log(this.id);
-		}
-
-		theAmbulance.addEventListener("click", logThisAmbulance);
-
-	</script>
-</defs>
 </style>
 <path id="body" class="st0" d="M3,58.1v208h63c-2-26,41-40,41-40c38,1,37,40,37,40h92c-4-31,42.5-42.5,42.5-42.5
 	c21.5-1.5,30.5,6.5,30.5,6.5c22,22,18,36,18,36h69v-94c-3-5-118-114-118-114H3z"/>
