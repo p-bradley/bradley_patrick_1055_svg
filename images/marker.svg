@@ -7,16 +7,20 @@
 	.st1{fill:#FFFF;stroke:#231F20;stroke-width:4;stroke-miterlimit:10;}
 	.st2{fill:#FFFF;stroke:#FFFFFF;stroke-width:12;stroke-miterlimit:10;}
 
-	.st0:hover {fill:#FFFFFF;stroke:#231F20;stroke-width:6;stroke-miterlimit:10;}
+	.st0:hover {fill:#FF0000;stroke:#231F20;stroke-width:6;stroke-miterlimit:10;}
 	.st1:hover {fill:#FF0000;stroke:#231F20;stroke-width:4;stroke-miterlimit:10;}
 	.st2:hover {fill:#FC0000;stroke:#FFFFFF;stroke-width:12;stroke-miterlimit:10;}
 </style>
 <defs>
 	<script>
-		let pip = document.querySelector(".test");
-		console.log(pip.classList);
-		console.log(pip.classList[1]);
-		pip.classList.add("test2")
+		let theMarker = document.querySelector("#marker");
+
+		function logThisMarker() {
+			console.log(this.id);
+		}
+
+		theMarker.addEventListener("click", logThisMarker);
+
 	</script>
 </defs>
 <ellipse id="shadow" class="st0" cx="94.9" cy="212.3" rx="80" ry="24.2"/>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="car" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 321.2 258.3" style="enable-background:new 0 0 321.2 258.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st1{fill:#FFFF;}
+	.st2{fill:#FFFF;}
+
+	.st0:hover {fill:#2B2B2B;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st1:hover {fill:#ABD5FF;}
+	.st2:hover {fill:#F9F44B;}
+<defs>
+	<script>
+		let theCar = document.querySelector("#car");
+
+		function logThisCar() {
+			console.log(this.id);
+		}
+
+		theCar.addEventListener("click", logThisCar);
+
+	</script>
+</defs>
+</style>
+<path id="carbody" class="st0" d="M33,97.8c-19-2.5-17,0-17,0c-12.5,6-13,27.5-13,27.5c9,6,21,2.8,21,2.8c-5.5,9.7-6,22.7-6,22.7
+	c0,96,0,96,0,96s6.5,8.5,27,8.5s26.5,0,26.5,0c9.5-6,9.5-6,9.5-6l0,0v-26h158.5c0,24-1.5,18.5,0,24s19.5,8,19.5,8h37.5
+	c11.5-7,6-13,6-13l1.3-102c-3.8-6-5.8-12.2-5.8-12.2h18.5c5.5-7.3-4.5-25.3-4.5-25.3c-13.5-7-24.5-6.1-24.5-6.1L262,26.3
+	c-25-20-53.5-21.5-53.5-21.5c-53.5-4-102,0-102,0C78,9.3,61,25.8,61,25.8L33,97.8z"/>
+<path id="windshield" class="st1" d="M79.4,37.3c19-12.5,67-12.5,67-12.5c47.5-4.5,93,9,93,9c20,27,24,65.9,24,65.9
+	c-23,20.1-163.5,9.6-163.5,9.6c-25,0-42-9.6-42-9.6C61.4,71.3,79.4,37.3,79.4,37.3z"/>
+<path id="leftheadlight" class="st2" d="M101,160.8c-22.5-13-47.5-15.5-47.5-15.5c-17.5,6.5-6,28.5-6,28.5
+	c21,11.5,45.5,7.5,45.5,7.5c15.5-3,16-6.5,16-6.5C111,169.3,101,160.8,101,160.8z"/>
+<path id="rightheadlight" class="st2" d="M211.6,165.8c22.5-13,47.5-15.5,47.5-15.5c17.5,6.5,6,28.5,6,28.5
+	c-21,11.5-45.5,7.5-45.5,7.5c-15.5-3-16-6.5-16-6.5C201.6,174.3,211.6,165.8,211.6,165.8z"/>
+</svg>

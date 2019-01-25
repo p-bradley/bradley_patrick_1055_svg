@@ -3,34 +3,18 @@
 	display:none;
 }
 
-.container
- {
- 	display: flex;
- 	flex-direction: row;
- 	align-items: center;
- 	margin-left: 150px;
- 	padding: 5%;
-  width: 100%;
-  flex-wrap: wrap;
-}
-
 .size
 {
-	width: 26%;
-}
-
-.sizeStoplights
-{
-	width:18%;
+	width: 6%;
 }
 
 h1
  {
  	margin-top: 20px;
  	text-align: center;
- 	font-family: Arial, helvetica,
+ 	font-family: arial,
  	font-size: 30px;
- 	color: red;
+ 	color: black;
  }
 
  #wrapper
