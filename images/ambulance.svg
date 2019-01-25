@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ambulance" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 399 303.8" style="enable-background:new 0 0 399 303.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st1{fill:#FFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:#FFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st3{fill:#FFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+
+	.st0:hover {fill:#FFFFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st1:hover {fill:#FF0000;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st2:hover {fill:#606060;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st3:hover {fill:#0097F4;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+
+</style>
+<path id="body" class="st0" d="M3,58.1v208h63c-2-26,41-40,41-40c38,1,37,40,37,40h92c-4-31,42.5-42.5,42.5-42.5
+	c21.5-1.5,30.5,6.5,30.5,6.5c22,22,18,36,18,36h69v-94c-3-5-118-114-118-114H3z"/>
+<path id="siren" class="st1" d="M176.7,34.9c3.9-16.3,12-25.3,17.8-29.8c3.8-3,9.3-2.8,12.9,0.6c8.2,7.7,12.7,19.9,15,29
+	c1.6,6.3-3.1,12.4-9.6,12.4h-26.4C179.9,47.1,175.2,41.1,176.7,34.9z"/>
+<circle id="backwheel" class="st2" cx="108.8" cy="269.1" r="31.8"/>
+<path id="windshield" class="st3" d="M395.3,171.4L279.8,59.8c-0.7-0.7-1.8-0.2-1.8,0.8v111.1c0,0.2,0.2,0.4,0.4,0.4H395
+	C395.4,172.1,395.5,171.6,395.3,171.4z"/>
+<polygon id="symbol" class="st1" points="150.8,132.1 120.8,132.1 120.8,102.1 96.8,102.1 96.8,132.1 66.8,132.1 66.8,156.1 
+	96.8,156.1 96.8,186.1 120.8,186.1 120.8,156.1 150.8,156.1 "/>
+<circle id="frontwheel" class="st2" cx="282.8" cy="266.1" r="31.8"/>
+</svg>
